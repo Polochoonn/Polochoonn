@@ -1,16 +1,14 @@
-## Hi there 👋
+# Welcome to My GitHub Profile!
 
-<!--
-**Polochoonn/Polochoonn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hello! I'm Paul, a bioinformatics programmer at NYU's [Ruggles Lab](https://www.ruggleslab.org/). I specialize in developing computational tools and analyses to advance our understanding of human health and disease.
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Position**: Bioinformatics Programmer
+- **Affiliation**: [Ruggles Lab](https://www.ruggleslab.org/), NYU
+- **Expertise**: Data analysis, tool development.
+  
+## Connect with Me
+
+- **Email**: [paul.sastourne-haletou@nyulangone.org](mailto:paul.sastourne-haletou@nyulangone.org)
+
